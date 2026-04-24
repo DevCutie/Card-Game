@@ -1,7 +1,4 @@
-width="643" height="679" alt="Screen Shot 2026-04-24 at 21 22 50" src="https://github.com/user-attachments/assets/da9bec79-33b4-4f2c-89bf-01ca493de0ec" />
-
-
-
+<img width="643" height="679" alt="Screen Shot 2026-04-24 at 21 22 50" src="https://github.com/user-attachments/assets/292d469d-2ba3-4bb2-aad3-43129e8e1266" />
 
 
 Card Matching Game
@@ -59,4 +56,4 @@ npm install
 Start the development server:
 
 Bash
-npm start<img 
+npm start
