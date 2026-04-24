@@ -1,4 +1,4 @@
-<img width="643" height="679" alt="Screen Shot 2026-04-24 at 21 22 50" src="https://github.com/user-attachments/assets/6a1c31bf-a94f-405c-83a6-2ca4ed688b51" /
+width="643" height="679" alt="Screen Shot 2026-04-24 at 21 22 50" src="https://github.com/user-attachments/assets/da9bec79-33b4-4f2c-89bf-01ca493de0ec" />
 
 
 
@@ -59,6 +59,4 @@ npm install
 Start the development server:
 
 Bash
-npm start<img width="643" height="679" alt="Screen Shot 2026-04-24 at 21 22 50" src="https://github.com/user-attachments/assets/da9bec79-33b4-4f2c-89bf-01ca493de0ec" />
-<img width="643" height="679" alt="Screen Shot 2026-04-24 at 21 22 50" src="https://github.com/user-attachments/assets/ac6dda2c-136f-46a9-b7b7-18b7055d4488" />
-<img width="643" height="679" alt="Screen Shot 2026-04-24 at 21 22 50" src="https://github.com/user-attachments/assets/3c885e02-213e-4eb0-b623-d8245f7e6aa5" />
+npm start<img 
